@@ -14,20 +14,16 @@ msgstr ""
 "Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgctxt "#30000"
-msgid "All episodes"
-msgstr ""
-
 msgctxt "#30001"
-msgid "Latest episodes"
+msgid "Bad Crypto Podcast"
 msgstr ""
 
 msgctxt "#30002"
-msgid ""
+msgid "Crypto Chick Podcast"
 msgstr ""
 
 msgctxt "#30003"
-msgid ""
+msgid "Bad Boys Of Tech"
 msgstr ""
 
 # empty string with id 32003
