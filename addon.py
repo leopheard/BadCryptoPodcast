@@ -2,7 +2,7 @@ from xbmcswift2 import Plugin, xbmcgui
 from resources.lib import mainaddon
 plugin = Plugin()
 url1 = "https://omny.fm/shows/badcrypto/playlists/podcast.rss"
-url2 = "https://omny.fm/shows/cryptochick/playlists/podcast.rss"
+url2 = "https://www.omnycontent.com/d/playlist/8edea6b9-fca4-41a1-83ee-aa76002b9dd8/fe694776-084b-4a31-9a35-abcd00073e6e/e6f951d6-da2e-4b98-bf22-abcd00073e83/podcast.rss"
 url3 = "https://www.omnycontent.com/d/playlist/8edea6b9-fca4-41a1-83ee-aa76002b9dd8/c49b612f-7eb3-48d3-bde6-aa8c00ed740f/c925d231-cd4d-4ab0-9901-aa8c00ed742c/podcast.rss"
 @plugin.route('/')
 def main_menu():
@@ -14,7 +14,7 @@ def main_menu():
         {
             'label': plugin.get_string(30002),
             'path': plugin.url_for('episodes2'),
-            'thumbnail': "https://podcastaddict.com/cache/artwork/thumb/2314341"},
+            'thumbnail': "https://www.omnycontent.com/d/playlist/8edea6b9-fca4-41a1-83ee-aa76002b9dd8/fe694776-084b-4a31-9a35-abcd00073e6e/e6f951d6-da2e-4b98-bf22-abcd00073e83/image.jpg?t=1590971186&size=Large"},
         {
             'label': plugin.get_string(30003),
             'path': plugin.url_for('episodes3'),

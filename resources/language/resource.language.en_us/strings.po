@@ -19,7 +19,7 @@ msgid "Bad Crypto Podcast"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Crypto Chick Podcast"
+msgid "The Crypto Chick with Rachel Wolfson"
 msgstr ""
 
 msgctxt "#30003"
