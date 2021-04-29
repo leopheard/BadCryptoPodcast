@@ -21,7 +21,7 @@
     <source>https://github.com/leopheard/BadCryptoPodcast</source>
     <website>https://badcryptopodcast.com/</website>
         	<assets>
-			<icon>resources/media/1.jpg</icon>
+			<icon>resources/media/icon.jpg</icon>
 			<fanart>resources/media/fanart.jpg</fanart>
 			<screenshot>resources/media/1.jpg</screenshot>
 			<screenshot>resources/media/2.jpg</screenshot>
